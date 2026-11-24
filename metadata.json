@@ -1,0 +1,6 @@
+{
+  "name": "Strike Zone 3D Lobby",
+  "description": "Free Fire-style 3D battle royale tactical lobby featuring a rotating character pedestal, custom .glb character import, squad staging pads, emotes, and matchmaking queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
